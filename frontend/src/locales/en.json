@@ -813,7 +813,7 @@
   "project.isArchived": "This project is archived and read-only. You can view the project, but you cannot update tasks.",
   "project.enforcedRandomTaskSelection": "This project has enforced random task selection for mapping. When you click the 'Map a task' button, a random task will be presented for mapping.",
   "project.changesetComment": "Changeset comment",
-  "project.contributions": "contributions",
+  "project.contributions": "Contributions",
   "project.contributions.registered": "Registered on",
   "project.imagery": "Imagery",
   "project.imagery.tms": "Custom TMS Layer",
